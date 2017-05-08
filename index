@@ -15,9 +15,28 @@
 		</header>
 
 		<main>
+			<h2>Amazzeriffic will change your life!</h2>
+
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+				eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+		<h3>here's why you need Amazzeriffic</h3>
+
+		<ul>
+
+			<li>It fits your lifestyle</li>
+			<li>It's awesome</li>
+			<li>it rocks your world</li>
+
+		</ul>
+
+		<img src='lightbulb.png' alt="an image of a lightbulb">
+
 		</main>
 
 		<footer>
 		</footer>
+
 	</body>
+	
 </html>
