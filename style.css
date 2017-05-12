@@ -4,6 +4,17 @@ body {
 
 header {
 	background: white;
+	overflow: auto;
+}
+
+header h1 {
+	float: left;
+	width: 570px;
+}
+
+header nav {
+	float: right;
+	width: 285px;
 }
 
 main {
