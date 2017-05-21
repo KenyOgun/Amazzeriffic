@@ -20,10 +20,11 @@
 
 		<main>
 			<div class="container">
-			<h2>Amazzeriffic will change your life!</h2>
+				<div class="left">
+					<h2>Amazzeriffic will change your life!</h2>
 
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-				eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+						eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
 		<h3>here's why you need Amazzeriffic</h3>
 
@@ -35,17 +36,25 @@
 
 		</ul>
 
+	</div>
+
+		<div class="right">
 		<img src='lightbulb.png' alt="an image of a lightbulb">
+			</div>
 			</div>
 		</main>
 
 		<footer>
-			<div class="contact" class="container">
+			<div class="container">
+			<div class="left">
+			<div class="contact">
 				<h5>Contact Us</h5>
 				<p>Amazeriffic!</p>
 				<p>555 Fiftieth Street</p>
 				<p>Asheville, NC 28801</p>
 			</div>
+			</div>
+
 
 			<div class="sitemap">
 
@@ -62,8 +71,9 @@
 
 			</div>
 
-		</footer>
+		</div>
 
-	</body>
+	</footer>
 
+</body>
 </html>
