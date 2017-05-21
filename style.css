@@ -1,5 +1,5 @@
 body {
-	background: #f9e933
+	background: #f9e933;
 }
 
 header {
@@ -19,6 +19,27 @@ header nav {
 
 main {
 	background: white;
+	overflow: auto;
+}
+
+main .left {
+	float: left;
+	width: 570px;
+}
+
+main .right {
+	float: right;
+	width: 285px;
+}
+
+footer .left {
+	float: left;
+	width: 570px;
+}
+
+footer .sitemap {
+	float: right;
+	width: 285px;
 }
 
 header, main, footer {
